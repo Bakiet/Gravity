@@ -274,9 +274,12 @@ PlayerSettings:
   psmSplashimage: {fileID: 0}
   spritePackerPolicy: 
   scriptingDefineSymbols:
-    2: 
-    4: APPADVISORY_ADS
-    7: APPADVISORY_ADS
+    1: CROSS_PLATFORM_INPUT
+    2: CROSS_PLATFORM_INPUT
+    4: APPADVISORY_ADS;CROSS_PLATFORM_INPUT;MOBILE_INPUT
+    7: APPADVISORY_ADS;CROSS_PLATFORM_INPUT;MOBILE_INPUT
+    15: CROSS_PLATFORM_INPUT;MOBILE_INPUT
+    16: CROSS_PLATFORM_INPUT;MOBILE_INPUT
   metroPackageName: DashUp
   metroPackageLogo: 
   metroPackageLogo140: 
