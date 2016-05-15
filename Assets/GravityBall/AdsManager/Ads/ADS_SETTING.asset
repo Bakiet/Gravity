@@ -28,6 +28,3 @@ MonoBehaviour:
   rewardedVideoAlwaysSuccessInSimulator: 0
   numberOfMinutesToShowAnInterstitialAtGameOver: 2
   isAmazon: 0
-  activateRegularInterstitial_UNITY_ADS: 0
-  activateRewardedVideo_UNITY_ADS: 0
-  rewardedVideoZoneUnityAds: rewardedVideo
